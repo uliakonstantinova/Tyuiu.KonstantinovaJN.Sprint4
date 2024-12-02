@@ -12,7 +12,7 @@ namespace Tyuiu.KonstantinovaJN.Sprint3.Task0.V5
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
+            Console.WriteLine("* Тема: Одномерные массивы (статический ввод).                            *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #30                                                             *");
             Console.WriteLine("* Выполнила: Константинова Юлия Николаевна | ИСПБ-24-1                    *");
