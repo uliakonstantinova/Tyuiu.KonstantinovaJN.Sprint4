@@ -1,6 +1,6 @@
 ﻿using Tyuiu.KonstantinovaJN.Sprint4.Task1.V29.Lib;
 
-namespace Tyuiu.KonstantinovaJN.Sprint3.Task0.V5
+namespace Tyuiu.KonstantinovaJN.Sprint4.Task1.V29
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace Tyuiu.KonstantinovaJN.Sprint3.Task0.V5
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерные массивы. (ввод с клавиатуры)                           *");
+            Console.WriteLine("* Тема: Одномерные массивы (ввод с клавиатуры).                           *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
             Console.WriteLine("* Выполнила: Константинова Юлия Николаевна | ИСПБ-24-1                    *");
