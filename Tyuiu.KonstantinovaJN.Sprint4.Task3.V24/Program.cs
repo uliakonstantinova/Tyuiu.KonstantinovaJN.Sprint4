@@ -1,6 +1,6 @@
 ﻿using Tyuiu.KonstantinovaJN.Sprint4.Task3.V24.Lib;
 
-namespace Tyuiu.KonstantinovaJN.Sprint4.Task2.V15
+namespace Tyuiu.KonstantinovaJN.Sprint4.Task3.V24
 {
     class Program
     {
@@ -14,7 +14,7 @@ namespace Tyuiu.KonstantinovaJN.Sprint4.Task2.V15
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы (статический ввод).                             *");
-            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнила: Константинова Юлия Николаевна | ИСПБ-24-1                    *");
             Console.WriteLine("***************************************************************************");
